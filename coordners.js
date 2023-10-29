@@ -6,7 +6,7 @@ let coordners = {
 }
 
 function showCoordners(coordners) {
-  console.log(`x: ${this.x}`);
-  console.log(`y: ${this.y}`);
-  console.log(`z: ${this.z}`);
+  console.log(`x: ${coordners.x}`);
+  console.log(`y: ${coordners.y}`);
+  console.log(`z: ${coordners.z}`);
 }
